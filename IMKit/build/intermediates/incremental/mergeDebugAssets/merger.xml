@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\android_workspace\RongCloudTest\IMKit\src\main\assets"/><source path="D:\android_workspace\RongCloudTest\IMKit\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="D:\android_workspace\RongCloudTest\IMKit\src\debug\assets"/></dataSet></merger>

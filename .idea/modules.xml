@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/IMKit/IMKit.iml" filepath="$PROJECT_DIR$/IMKit/IMKit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RongCloudIMKit/RongCloudIMKit.iml" filepath="$PROJECT_DIR$/RongCloudIMKit/RongCloudIMKit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RongCloudIMLib/RongCloudIMLib.iml" filepath="$PROJECT_DIR$/RongCloudIMLib/RongCloudIMLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RongCloudTest.iml" filepath="$PROJECT_DIR$/RongCloudTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rongclouddemoapp/rongclouddemoapp.iml" filepath="$PROJECT_DIR$/rongclouddemoapp/rongclouddemoapp.iml" />
+    </modules>
+  </component>
+</project>
